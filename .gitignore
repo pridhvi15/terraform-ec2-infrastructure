@@ -12,9 +12,6 @@ crash.log
 .terraformrc
 terraform.rc
 
-# Sensitive variable files (optional)
-*.tfvars
-*.tfvars.json
 
 # Plan output
 *.plan
